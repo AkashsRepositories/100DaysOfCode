@@ -1,4 +1,4 @@
-const BASE_URL =  `http://127.0.0.1:5500/index.html`;
+const BASE_URL =  `https://100daysofcode-akash.netlify.app/`;
 
 const redirectToTop = (event) => {
     window.location.href =  `${BASE_URL}#top`
